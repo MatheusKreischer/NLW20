@@ -21,5 +21,5 @@ Node.js (para backend, se aplicável): Potencialmente para gerenciar requisiçõ
 
 HTML/CSS (para frontend, se aplicável): Para a interface de usuário.
 
-![Imagem com estrutura de links pessoais](./assets/assets/capa.png) 
+
 
